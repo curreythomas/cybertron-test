@@ -16,7 +16,7 @@
     "start": "browser-sync start --server --files *.js"
   },
   "devDependencies": {
-    "browser-sync": "^2.23.6",
+    "browser-sync": "^2.27.11",
     "eslint": "^4.8.0",
     "eslint-config-prettier": "^2.6.0",
     "eslint-config-standard": "^10.2.1",
